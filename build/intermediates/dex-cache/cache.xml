@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\d183802.MAIN\AndroidStudioProjects\android_wear_sandbox-master\app\build\intermediates\pre-dexed\debug\gson-2.2.4-2fab6bb8ece86e6486476b350241e88e2d5df497.jar"
+        jar="C:\Users\d183802.MAIN\AndroidStudioProjects\android_wear_sandbox-master\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8"/>
+    <item
+        dex="C:\Users\d183802.MAIN\AndroidStudioProjects\android_wear_sandbox-master\app\build\intermediates\pre-dexed\debug\classes-cf3f45f29ee915eedde3f9fe45a16b7611c5362c.jar"
+        jar="C:\Users\d183802.MAIN\AndroidStudioProjects\android_wear_sandbox-master\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\d183802.MAIN\AndroidStudioProjects\android_wear_sandbox-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-f17d4b680027b924139e3bbb59571c4bd779c1ec.jar"
+        jar="C:\Users\d183802.MAIN\AppData\Local\Android\android-studio2\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\d183802.MAIN\AndroidStudioProjects\android_wear_sandbox-master\app\build\intermediates\pre-dexed\debug\wearable-preview-support-9910c06baa338c0c11ba9a7f8e02d494f8b58560.jar"
+        jar="C:\Users\d183802.MAIN\AndroidStudioProjects\android_wear_sandbox-master\app\libs\wearable-preview-support.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4f4678fce7b2869bee25328441563fc61037b6cc"/>
+
+</pre-dex-items>
